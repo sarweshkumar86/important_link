@@ -10,3 +10,5 @@ https://www.istockphoto.com/search/2/image?phrase=digital%20marketing    // isto
 https://getpaidstock.com/      // getpaidstock  remove water mark through url or web address 
 
 https://tinypng.com/        // optize the img size or reduce the image size
+
+https://premium-downloader.com/freepik-downloader   // premium stock download 
