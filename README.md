@@ -12,3 +12,5 @@ https://getpaidstock.com/      // getpaidstock  remove water mark through url or
 https://tinypng.com/        // optize the img size or reduce the image size
 
 https://premium-downloader.com/freepik-downloader   // premium stock download 
+
+https://www.remove.bg/     //  remove background 
