@@ -14,3 +14,5 @@ https://tinypng.com/        // optize the img size or reduce the image size
 https://premium-downloader.com/freepik-downloader   // premium stock download 
 
 https://www.remove.bg/     //  remove background 
+
+https://cleanup.pictures/     // remove any object clean any object from pictur
