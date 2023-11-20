@@ -16,3 +16,7 @@ https://premium-downloader.com/freepik-downloader   // premium stock download
 https://www.remove.bg/     //  remove background 
 
 https://cleanup.pictures/     // remove any object clean any object from pictur
+
+https://github.com/21Z/Microsoft-Office-2021/blob/main/README.md#install-office-2021-using-office-deployment-tool  // activate windows 2021 
+https://tb.rg-adguard.net/public.php  // link here to download ms office software 
+
